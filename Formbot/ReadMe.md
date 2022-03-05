@@ -2,7 +2,7 @@
 
 <br>
 <br>
-1. Display is from Mello (Fly), which has the Display shifted 3mm. A new printed part is needed: 
+1. Display is from Mellow (Fly), which has the Display shifted 3mm. A new printed part is needed: 
 <br>https://github.com/T4KUUY4/Voron-Kit-Lookouts/blob/main/Formbot/STL/DisplayIssue/mini12864_case_front_knob_shifted_3mm.stl
 <br>
 <br>
