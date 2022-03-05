@@ -7,6 +7,7 @@
 <br>
 <br>
 2. The XY Endstops are Hall Effect Endstops which are not going to work correctly and will cause you to open a helpdesk ticket where we suggest you use clicky endstops:
+<br>
 <br> If you decide to still use hall effect endstops you will need the following parts:
 <br>https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Gantry/Z_Joints/z_joint_upper_hall_effect.stl 
 <br>
