@@ -3,6 +3,6 @@
 <br>
 <br>
 3. The Endstops are Hall Effect Endstops which require the Hall Effect printed parts.
-4. <br>
+<br>
 <br>
 5. The Z-Endstop is a PCB Version which requires new printed parts: 
