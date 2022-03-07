@@ -1,3 +1,9 @@
+---
+layout: default
+title: Voron-Kit-Lookouts
+nav_order: 1
+---
+
 # Voron-Kit-Lookouts
 
 ## What is this repo for? 
