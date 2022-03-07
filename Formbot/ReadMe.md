@@ -1,3 +1,9 @@
+---
+layout: default
+title: Formbot
+nav_order: 1
+---
+
 # Current Issues/Deviations with Formbot Kits
 
 <br>
