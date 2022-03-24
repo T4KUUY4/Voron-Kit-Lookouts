@@ -6,6 +6,7 @@ nav_order: 1
 
 # Current Issues/Deviations with Formbot Kits
 
+
 1. WIRE COLORS OF THE WIRING LOOM DONT MATCH!!
 <br>
 <br>
