@@ -9,3 +9,6 @@ nav_order: 3
 <br>
 <br>
 2. Unnamed Bed Heater
+<br>
+<br>
+3. PL08N Normally open Probe should be normally closed...
