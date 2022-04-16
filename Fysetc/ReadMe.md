@@ -11,4 +11,4 @@ nav_order: 3
 2. Unnamed Bed Heater
 <br>
 <br>
-3. PL08N Normally open Probe should be normally closed...
+3. PL08N Probe is NO (normally open) but should be NC (Normally closed)
