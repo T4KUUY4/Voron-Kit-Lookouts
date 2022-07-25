@@ -8,7 +8,7 @@ nav_order: 3
 1. Bed Hole Distance is non Standard
 <br>
 <br>
-2. Unnamed Bed Heater
+2. Unnamed Bed Heater (Might be fixed?! nobody knows)
 <br>
 <br>
 3. PL08N Probe is NO (normally open) but should be NC (Normally closed)
